@@ -12,9 +12,9 @@ Open the created file.
 ![image](https://user-images.githubusercontent.com/92580927/152960737-be90b0f9-8836-4afc-9eba-2429d5208b29.png)
 
 The map has three layers: 
-1) All locations (green)
-2) 10 closest locations (blue)
-3) 10 farthest locations (pink)
+1) All locations (green marks)
+2) 10 closest locations (blue marks)
+3) 10 farthest locations (pink marks)
 
 ![image](https://user-images.githubusercontent.com/92580927/152966207-c57089c6-cbca-46b8-a4df-7b2dbeca1ca3.png)
 
