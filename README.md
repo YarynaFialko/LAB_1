@@ -21,3 +21,5 @@ The map has three layers:
 Each mark has a descriprion with location, latitude and longitude:
 
 ![image](https://user-images.githubusercontent.com/92580927/152966046-509e22d3-c62c-4046-911b-4e738916b0c1.png)
+
+Download file "tst" with data to test.
