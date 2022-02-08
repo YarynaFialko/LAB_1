@@ -22,4 +22,4 @@ Each mark has a description with location, latitude, and longitude:
 
 ![image](https://user-images.githubusercontent.com/92580927/152966046-509e22d3-c62c-4046-911b-4e738916b0c1.png)
 
-Download file "test" with films data (about 1000 films) to test or test_20 (20000 films) for better representation.
+Download file "test" with films data (about 1500 films) to test or test_20 (20000 films) for better representation.
