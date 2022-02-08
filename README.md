@@ -16,7 +16,7 @@ The map has three layers:
 2) 10 closest locations (blue)
 3) 10 farthest locations (pink)
 
-![image](https://user-images.githubusercontent.com/92580927/152963097-f9d93117-867e-4fc4-904a-73e337e7c00c.png)
+![image](https://user-images.githubusercontent.com/92580927/152966207-c57089c6-cbca-46b8-a4df-7b2dbeca1ca3.png)
 
 Each mark has a descriprion with location, latitude and longitude:
 
